@@ -1,0 +1,35 @@
+{  
+    "My Analysis Engine Status": "My Analysis Engine Status",
+    "Select Language": "Select Language",
+    "English": "English",
+    "Korean": "Korean",
+    "Japanese": "Japanese",
+    "Project Name": "Project Name",
+    "Pod Service Status": "Pod Service Status",
+    "Kind": "Kind",
+    "Deployment": "Deployment",
+    "Pod": "Pod",
+    "CPU Usage": "CPU Usage",
+    "CPU Usage Date": "CPU Usage Date",
+    "Lasted Date": "Lasted Date",
+    "Start Date": "Start Date",
+    "Status": "Status",
+    "Ready": "Ready",
+    "Node": "Node",
+    "Memory Usage": "Memory Usage",
+    "GPU Mem Usage": "GPU Mem Usage",
+    "GPU Usage": "GPU Usage",
+    "Pod Name": "Pod Name",
+    "Log Date": "Log Date",
+    "Docker Name": "Docerk Name",
+    "Desc": "Desc",
+    "Volume": "Volume",
+    "Size": "Size",
+    "Pod Status Log": "Pod Status Log",
+    "Disk Usage": "Disk Usage",
+    "DeployName": "DeployName"
+
+
+
+    
+}

@@ -1,0 +1,35 @@
+{  
+    "My Analysis Engine Status": "私の分析エンジンの状態",
+    "Select Language": "言語を選択",
+    "English": "英語",
+    "Korean": "韓国語",
+    "Japanese": "日本語",
+    "Project Name": "プロジェクト名",
+    "Pod Service Status": "ファハドサービスの状態",
+    "Kind": "種類",
+    "Deployment": "分配",
+    "Pod": "ファハド",
+    "CPU Usage": "CPU使用量",
+    "CPU Usage Date": "CPU日付別使用量",
+    "Lasted Date": "持続仕事",
+    "Start Date": "開始日",
+    "Status": "状態",
+    "Ready": "準備",
+    "Node": "ノード",
+    "Memory Usage": "メモリ使用量",
+    "GPU Mem Usage": "グラフィックスカードのメモリ使用量",
+    "GPU Usage": "グラフィックカードの使用",
+    "Pod Name": "ファハド名前",
+    "Log Date": "せる方法は",
+    "Docker Name": "ドコ名前",
+    "Desc": "要約",
+    "Volume": "ボリューム",
+    "Size": "サイズ",
+    "Pod Status Log": "ファハド状態記録",
+    "Disk Usage": "ディスク使用量",
+    "DeployName": "分配されたものの名前"
+
+
+
+    
+}
