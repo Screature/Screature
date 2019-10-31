@@ -1,0 +1,35 @@
+{  
+    "My Analysis Engine Status": "나의 분석엔진 상태",
+    "Select Language": "언어 선택",
+    "English": "영어",
+    "Korean": "한국어",
+    "Japanese": "일본어",
+    "Project Name": "프로젝트 이름",
+    "Pod Service Status": "파드 서비스 상태",
+    "Kind": "종류",
+    "Deployment": "분배",
+    "Pod": "파드",
+    "CPU Usage": "CPU 사용량",
+    "CPU Usage Date": "CPU 일자별 사용량",
+    "Lasted Date": "지속일",
+    "Start Date": "시작일",
+    "Status": "상태",
+    "Ready": "준비",
+    "Node": "노드",
+    "Memory Usage": "메모리 사용량",
+    "GPU Mem Usage": "그래픽카드 메모리 사용량",
+    "GPU Usage": "그래픽카드 사용량",
+    "Pod Name": "파드 이름",
+    "Log Date": "접속일",
+    "Docker Name": "도커 이름",
+    "Desc": "요약",
+    "Volume": "볼륨",
+    "Size": "크기",
+    "Pod Status Log": "파드 상태 기록",
+    "Disk Usage": "디스크 사용량",
+    "DeployName": "분배된 것 이름"
+    
+    
+
+
+}
